@@ -18,7 +18,7 @@ The maze is generated using an implimentation of Prim's iterative algorithm
   Remove the wall from the list.
 Note that simply running classical Prim's on a graph with random edge weights would create mazes stylistically identical to Kruskal's, because they are both minimal spanning tree algorithms. Instead, this algorithm introduces stylistic variation because the edges closer to the starting point have a lower effective weight.
 
-<img width="746" alt="image" src="https://github.com/user-attachments/assets/b930e229-4742-4f41-b04a-8899a73e0b3a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b930e229-4742-4f41-b04a-8899a73e0b3a" />
 
 
 This is a demonstration of the maze generator in action  
