@@ -1,4 +1,5 @@
 # Maze-Generation-solving
+
 Maze generation and maze solving in java
 
 The maze is generated using an implimentation of Prim's iterative algorithm
@@ -23,7 +24,20 @@ Note that simply running classical Prim's on a graph with random edge weights wo
 
 This is a demonstration of the maze generator in action  
 
+ [!NOTE]
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 https://github.com/user-attachments/assets/88a05883-93a0-4cd0-a56f-618299038f75
