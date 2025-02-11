@@ -31,6 +31,7 @@ https://github.com/user-attachments/assets/88a05883-93a0-4cd0-a56f-618299038f75
 
 
 
+# Other sources for further reading
 https://bost.ocks.org/mike/algorithms/#maze-generation
 
 https://en.wikipedia.org/wiki/Maze_generation_algorithm
