@@ -22,3 +22,11 @@ Note that simply running classical Prim's on a graph with random edge weights wo
 
 
 This is a demonstration of the maze generator in action  
+
+
+
+
+https://github.com/user-attachments/assets/88a05883-93a0-4cd0-a56f-618299038f75
+
+
+
