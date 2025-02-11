@@ -2,7 +2,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MazeGeneration {
+public class MazeGeneration {//
 
     public static void main(String[] args) throws InterruptedException {
         // Create a drawing panel for visualization
