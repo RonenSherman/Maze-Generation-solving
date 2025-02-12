@@ -28,7 +28,10 @@ This is a demonstration of the maze generator in action
 https://github.com/user-attachments/assets/88a05883-93a0-4cd0-a56f-618299038f75
 
 
+# Maze solving 
++ to solve I decided to use dfs (depth first search).
 
++ Depth first search works by choosing a path to go down and exploring it all the way till it hits a dead end (hence the name "depth". This is also called recursive backtracking.
 
 
 # Other sources for further reading
